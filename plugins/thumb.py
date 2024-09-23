@@ -60,7 +60,7 @@ __HELP__ = """
 
 
 **ᴇxᴀᴍᴘʟᴇ:**
-- `/getthumb https://www.youtube.com/watch?v=Tl4bQBfOtbg`
+- `/getthumb`
 
 **ɴᴏᴛᴇ:**
 ᴘʀᴏᴠɪᴅᴇ ᴀ ᴠᴀʟɪᴅ ʏᴏᴜᴛᴜʙᴇ ᴜʀʟ ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ.
